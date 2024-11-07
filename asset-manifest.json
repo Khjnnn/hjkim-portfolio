@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/hjkim-portfolio/static/css/main.87a90ad4.css",
-    "main.js": "/hjkim-portfolio/static/js/main.ee1ad33c.js",
+    "main.js": "/hjkim-portfolio/static/js/main.9773becf.js",
     "index.html": "/hjkim-portfolio/index.html",
     "main.87a90ad4.css.map": "/hjkim-portfolio/static/css/main.87a90ad4.css.map",
-    "main.ee1ad33c.js.map": "/hjkim-portfolio/static/js/main.ee1ad33c.js.map"
+    "main.9773becf.js.map": "/hjkim-portfolio/static/js/main.9773becf.js.map"
   },
   "entrypoints": [
     "static/css/main.87a90ad4.css",
-    "static/js/main.ee1ad33c.js"
+    "static/js/main.9773becf.js"
   ]
 }
