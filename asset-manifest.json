@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "https://khjnnn.github.io/hjkim-portfolio/static/css/main.87a90ad4.css",
-    "main.js": "https://khjnnn.github.io/hjkim-portfolio/static/js/main.d55dc782.js",
+    "main.css": "https://khjnnn.github.io/hjkim-portfolio/static/css/main.6eeeecc3.css",
+    "main.js": "https://khjnnn.github.io/hjkim-portfolio/static/js/main.b865f1f7.js",
     "index.html": "https://khjnnn.github.io/hjkim-portfolio/index.html",
-    "main.87a90ad4.css.map": "https://khjnnn.github.io/hjkim-portfolio/static/css/main.87a90ad4.css.map",
-    "main.d55dc782.js.map": "https://khjnnn.github.io/hjkim-portfolio/static/js/main.d55dc782.js.map"
+    "main.6eeeecc3.css.map": "https://khjnnn.github.io/hjkim-portfolio/static/css/main.6eeeecc3.css.map",
+    "main.b865f1f7.js.map": "https://khjnnn.github.io/hjkim-portfolio/static/js/main.b865f1f7.js.map"
   },
   "entrypoints": [
-    "static/css/main.87a90ad4.css",
-    "static/js/main.d55dc782.js"
+    "static/css/main.6eeeecc3.css",
+    "static/js/main.b865f1f7.js"
   ]
 }
