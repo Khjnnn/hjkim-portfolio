@@ -14,10 +14,14 @@
 - 다크모드 지원
 
 ### 🛠 사용 기술
-- **Frontend**: React
+- **Frontend**: React, Tailwind CSS, Framer Motion
 - **Deploy**: GitHub Pages
-- **Style**: Styled-components
-- **Build**: Vite
+- **Tools**: 
+  - VSCode
+  - Git/GitHub
+  - React Icons
+  - React Markdown
+  - React Syntax Highlighter
 
 ### 💡 배운 점
 - React 컴포넌트 설계 및 구현
