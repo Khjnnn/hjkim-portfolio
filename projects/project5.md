@@ -29,7 +29,7 @@ TicketBay 티켓 거래 플랫폼의 매물 현황을 실시간 조회하고, �
 1. TicketBay 공개 API 분석 및 데이터 구조 파악
 2. Flask 기반 프록시 서버 및 대시보드 UI 구현
 3. Supabase PostgreSQL 스키마 설계 및 데이터 파이프라인 구축
-4. Chart.js 복합 차트(bar+line, 이중 Y축) 시각화 구현
+4. Chart.js 복합 차트 시각화 구현
 5. Vercel Serverless 환경 배포 및 Cron Job 자동 수집 설정
 6. UTC/KST 타임존 처리 및 데이터 정합성 확보
 
@@ -42,6 +42,6 @@ TicketBay 티켓 거래 플랫폼의 매물 현황을 실시간 조회하고, �
 
 ## 📱 특징
 - 실시간 API 데이터와 DB 히스토리 데이터를 결합하여 표시
-- 두 가지 차트 디자인 차별화 (추이: line, 현황: bar+line)
+- 두 가지 차트 디자인 차별화
 - 카테고리당 15개 데이터 자동 관리로 DB 과부하 방지
 - 모바일 반응형 디자인
