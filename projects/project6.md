@@ -33,9 +33,8 @@ WebSocket 기반의 실시간 협업 화이트보드와 JVM 메트릭을 실시�
 3. WebSocket 세션 이벤트 리스너로 접속/퇴장 감지 구현
 4. JVM 실시간 메트릭 수집 및 1초 주기 스케줄러 Push 구현
 5. 이벤트 추적 서비스와 유저별 쓰로틀링 로직 설계
-6. Mesh Gradient + Glassmorphism 기반 UI 디자인 적용
-7. 모바일 반응형 최적화 (플로팅 툴바, 하단 패널)
-8. Docker 멀티스테이지 빌드 및 Railway 배포
+6. 모바일 반응형 최적화 (플로팅 툴바, 하단 패널)
+7. Docker 멀티스테이지 빌드 및 Railway 배포
 
 ## 💡 학습한 점
 - STOMP 프로토콜의 @MessageMapping → @SendTo 브로드캐스트 흐름 이해
